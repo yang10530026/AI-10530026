@@ -1,2 +1,3 @@
 # AI-10530026
-I am YANG, JIAN-XIN
+我是YANG，JIAN-XIN
+我是楊健歆
